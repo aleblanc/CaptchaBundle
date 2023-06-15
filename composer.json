@@ -1,5 +1,5 @@
 {
-    "name": "aleblanc/captcha-bundle",
+    "name": "gregwar/captcha-bundle",
     "type": "symfony-bundle",
     "description": "Captcha bundle",
     "keywords": ["symfony2", "symfony", "captcha", "bot", "visual", "code", "security", "spam"],
